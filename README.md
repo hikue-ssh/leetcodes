@@ -1,4 +1,4 @@
-[Banner](images/GithubBanner.png)
+![Banner](images/GithubBanner.png)
 
 # Leet Code Questions Directory
 
@@ -21,7 +21,7 @@ This repository serves as a **directory** for all python projects that I have co
 ---
 
 This is a repo that can be changed or completely altered if I find a better solution than my previous attempt. It can be used as a guide for anyone who is attempting a leet in python (or any other language in directory). The format of each .py file is as follows:
-    [Image](images/template.png)
+    ![Image](images/template.png)
 
 ## Requirements
 
