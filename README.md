@@ -28,8 +28,8 @@ This is a repo that can be changed or completely altered if I find a better solu
 ---
 
 The optional requirements to run tests for this repo are as follows:
-    - pytest: `pip install pytest`
-    - robot: `pip install robotframework`
+- pytest: `pip install pytest`
+- robot: `pip install robotframework`
 
 ### Sample Tests
 
