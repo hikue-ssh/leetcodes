@@ -1,4 +1,4 @@
-[Banner](images/Github%20Banner.png)
+[Banner](images/GithubBanner.png)
 
 # Leet Code Questions Directory
 
@@ -24,7 +24,6 @@ This is a repo that can be changed or completely altered if I find a better solu
     [Image](images/template.png)
 
 ## Requirements
-
 
 ---
 
