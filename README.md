@@ -1,4 +1,4 @@
-![Banner](images/GithubBanner.png)
+![Banner](images/banner.png)
 
 # Leet Code Questions Directory
 
